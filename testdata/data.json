@@ -1,0 +1,65 @@
+{
+    "register_user": {
+        "first_name": "Fa",
+        "last_name": "Liu",
+        "address": "33, Green island",
+        "city": "Loc",
+        "state": "Alaska",
+        "zip_code": "40000",
+        "phone": "1234567890",
+        "ssn": "123456789",
+        "username": "SSD2007",
+        "password": "wrO:UoBF81[2"
+    },
+    "valid_user": {
+        "username": "SSD2027",
+        "password": "wrO:UoBF81[2"
+    },
+    "invalid_user": {
+        "username": "wronguser",
+        "password": "wrongpass"
+    },
+  "existing_user": {
+    "first_name": "Fa",
+    "last_name": "Liu",
+    "address": "33, Green island",
+    "city": "Loc",
+    "state": "Alaska",
+    "zip_code": "40000",
+    "phone": "1234567890",
+    "ssn": "123456789",
+    "username": "SSD2027",
+    "password": "wrO:UoBF81[2"
+  },
+    "transfer": {
+        "amount": "50"
+    },
+    "bill_payment": {
+        "payee_name": "John Electricity",
+        "address": "456 Power St",
+        "city": "Boston",
+        "state": "MA",
+        "zip_code": "02101",
+        "phone": "9876543210",
+        "account_number": "12345",
+        "amount": "100"
+   },
+    "update_profile": {
+        "first_name": "Fat",
+        "last_name": "Leo",
+        "address": "45, Green island",
+        "city": "Colombo",
+        "state": "Western",
+        "zip_code": "11000",
+        "phone": "0771234567"
+    },
+    "loan": {
+        "amount": "1000",
+        "down_payment": "100"
+    },
+    "find_transaction": {
+        "amount": "50",
+        "date": "05-23-2026"
+    }
+
+}
